@@ -1,1 +1,1 @@
-To practice using git
+To practice collaboration
